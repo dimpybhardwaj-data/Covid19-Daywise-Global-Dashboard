@@ -50,7 +50,7 @@ The dashboard is designed to be **business-oriented**, with KPI cards, sparkline
 - Recovery ratios improved steadily, mortality declined.
 - Growth rate dropped sharply after January, then declined gradually.
 - Strong correlation (r ≈ 0.72) between new cases and new deaths.
-- 
+  
 ---
 
 ## 🚀 How to Use
