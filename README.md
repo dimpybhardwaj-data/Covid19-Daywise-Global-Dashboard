@@ -16,7 +16,7 @@ The dashboard is designed to be **business-oriented**, with KPI cards, sparkline
   - Global Expansion (Number of countries affected)
   - Active Case Trend (Healthcare pressure)
   - Monthly New Cases, Deaths, Recoveries
-  - Mortality vs Recovery Ratios
+  - Mortality vs Recovery Rate
   - Growth Rate Comparison
 - **Business Questions Answered**:
   - Which days had new cases above the 90th percentile?
@@ -41,12 +41,16 @@ The dashboard is designed to be **business-oriented**, with KPI cards, sparkline
 ---
 
 ## 📊 Insights
-- Cases surged rapidly after March, peaking in July.
-- Spread plateaued at ~187 countries by April.
+- COVID - 19 cases increased sharply after March 2020, showing rapid global spread.
+- Total confirmed cases reached approx **16.48 millions** by **July 2020**.
+- Total recoveries reached around **9.47 million**, indicating strong recovery growth.
+- Total deaths were about **0.65 million,** significantly lower than confirmed cases.
+- Active cases rose steadily and peaked in July.
+- Spread plateaued at** ~187 countries by April.**
 - Recovery ratios improved steadily, mortality declined.
 - Growth rate dropped sharply after January, then declined gradually.
 - Strong correlation (r ≈ 0.72) between new cases and new deaths.
-
+- 
 ---
 
 ## 🚀 How to Use
@@ -58,7 +62,7 @@ The dashboard is designed to be **business-oriented**, with KPI cards, sparkline
 ---
 
 ## 📸 Screenshots
-<img width="1719" height="700" alt="image" src="https://github.com/user-attachments/assets/d63d7511-cc8d-4e08-8eda-c676368a3869" />
+<img width="937" height="362" alt="Screenshot 2026-06-17 155704" src="https://github.com/user-attachments/assets/32907eee-0485-4edf-9dda-0df247210b17" />
 
 
 ---
